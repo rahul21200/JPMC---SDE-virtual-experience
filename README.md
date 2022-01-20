@@ -1,4 +1,4 @@
-# JPMC---SDE-virtual-experience
+# JPMC SDE virtual experience
 <h3> Task 1 </h3>
 <p> to assist with some development to add a chart to a trader’s dashboard allowing them to better identify under/over-valued stocks.
 <br>
